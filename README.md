@@ -99,7 +99,7 @@ catchment_width_B | <img src="https://render.githubusercontent.com/render/math?m
 
 ## References
 <a id="1">[1]</a> 
-P. W. Morawiecki, P. H. Trinh. "Dimensional analysis of integrated catchment models. Part 1. Dimensional analysis for the United Kingdom" (2022)
+P. W. Morawiecki, P. H. Trinh. "On the development and analysis of mathematical models of catchments. Part 1. Parameter estimation of catchment properties" (2022)
 
 <a id="2">[2]</a> 
 Tóth, Brigitta, et al. "3D soil hydraulic database of Europe at 250 m resolution." Hydrological Processes 31.14 (2017): 2662-2666.
