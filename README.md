@@ -79,7 +79,7 @@ The structure of the code is presented in the figure below. The processing codes
 
 All the processing codes generate summaries in .csv format, which are then merged by `merge_summary.R` code to a single file, `merge_summary.csv`. The postprocessing files allow to perform statistical analysis of this summary (including correlation, clustering and PCA) and generate maps showing distribution of parameter values over UK.
 
-![This is an image](https://people.bath.ac.uk/pwm27/code_structure.svg)
+![Image cannot be uploaded](https://people.bath.ac.uk/pwm27/code_structure.svg)
 
 ## Output variables
 
