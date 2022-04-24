@@ -26,7 +26,7 @@ Data location | Place the file in: `data/ESDAC_soil_conductivity`
 Content | The dataset should include following rasters:<ul><li>`HCC_K0_sl*.tif` - hydraulic</li><li>`HCC_alp_sl*.tif` - MvG α parameter</li><li>`HCC_n_sl*.tif` - MvG n parameter</li><li>`HCC_thr_sl*.tif` - residual water content</li><li>`HCC_ths_sl*.tif` - saturated water content</li></ul>
 Dataset size | 15.1 GB (it can be reduced by deleting unused files)
 
-### OS VectorMap® District
+### OS VectorMap District
 
 Author(s) | Ordnance Survey
 --- | --- 
