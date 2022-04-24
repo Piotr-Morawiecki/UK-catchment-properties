@@ -102,7 +102,7 @@ catchment_width_B | <img src="https://render.githubusercontent.com/render/math?m
 P. W. Morawiecki, P. H. Trinh. "On the development and analysis of mathematical models of catchments. Part 1. Parameter estimation of catchment properties" (2022)
 
 <a id="2">[2]</a> 
-Tóth, Brigitta, et al. "3D soil hydraulic database of Europe at 250 m resolution." Hydrological Processes 31.14 (2017): 2662-2666.
+T., Brigitta, et al. "3D soil hydraulic database of Europe at 250 m resolution." Hydrological Processes 31.14 (2017): 2662-2666.
 
 <a id="3">[3]</a> 
 M. J. Fry, O. Swain. "Hydrological data management systems within a national river flow archive." British Hydrological Society (2010).
