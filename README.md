@@ -33,7 +33,7 @@ Author(s) | Ordnance Survey
 Description | OS VectorMap GIS data contains data for use in district level mapping, and includes spatial datasets describing buildings, road, railway and energy infrastratcures, woodlands, surface water bodies etc. In our framework we only use shapefiles describing surface water bodies.  
 Accessing data | Data is available at https://osdatahub.os.uk/downloads/open/VectorMapDistrict, and was already uploaded to our repository under Open Government Licence for public sector information.Data location | `data/OS_VectorMap_District`
 Content | Dataset is divided into subdirectories representing individual National Grid Reference regions. From the large original dataset we use only the following shapefiles (as long as they are defined for given region):<ul><li>`**_SurfaceWater_Area.shp` - incl. wide rivers, lakes, reserviors etc.</li><li>`**_SurfaceWater_Line.shp` - incl. small rivers, channels and streams</li><li>`**_TidalBoundary.shp` - incl. coastline</li></ul>
-Dataset size | ... MB
+Dataset size | 1.68 GB
 
 ### OS Open Rivers
 
