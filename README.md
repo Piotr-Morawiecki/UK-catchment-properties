@@ -1,5 +1,7 @@
 # Parameter estimation of catchment properties in the United Kingdom
-by Piotr Morawiecki and Philippe H. Trinh, Departament of Mathematical Sciences, University of Bath
+by Piotr Morawiecki and Philippe H. Trinh, Departament of Mathematical Sciences, University of Bath (pwm27@bath.ac.uk)
+
+:warning: **This repository is still under construction.**
 
 ## About the repository
 
