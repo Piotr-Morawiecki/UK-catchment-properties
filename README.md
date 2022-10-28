@@ -5,7 +5,7 @@ by Piotr Morawiecki and Philippe H. Trinh, Departament of Mathematical Sciences,
 
 ## About the repository
 
-This GitHub repository include codes allowing to extract and process physical parameters describing catchment properties in UK for use in rainfall-runoff modelling. It is based on available datasets shared by their developers - these need to be downloaded before running the codes. A single dataset `output/merge_summary.csv`, which includes values of extracted parameters assigned to each catchment. A detailed description of processing algorithms together with discussion of their results is available in paper "*On the development and analysis of mathematical models of catchments. Part 1. Parameter estimation of catchment properties*" [[1]](#1). Preprint is available inside the repository (`parameter_estimation_of_catchment_properties.pdf`).
+This GitHub repository includes codes allowing to extract and process physical parameters describing catchment properties in UK for use in rainfall-runoff modelling. It is based on available datasets shared by their developers - these need to be downloaded before running the codes. A single dataset `output/merge_summary.csv`, which includes values of extracted parameters assigned to each catchment. A detailed description of processing algorithms together with discussion of their results is available in paper "*On the development and analysis of mathematical models of catchments. Part 1. Parameter estimation of catchment properties*" [[1]](#1). Preprint is available inside the repository (`parameter_estimation_of_catchment_properties.pdf`).
 
 Futher in this readme we describe:
 * required input datasets (and how they should be added),
